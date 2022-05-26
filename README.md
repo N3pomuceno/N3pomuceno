@@ -1,6 +1,6 @@
 
 
-Hi, I'm N3pomuceno(he/him), a Brazilian guy running after knowledge. I am graduated in Physics at Universidade Federal Fluminense (UFF) in 2021 and now I am taking the Information Systems course, with the intention of pursuing a career as a data scientist.
+<!--Hi, I'm N3pomuceno(he/him), a Brazilian guy running after knowledge. I am graduated in Physics at Universidade Federal Fluminense (UFF) in 2021 and now I am taking the Information Systems course, with the intention of pursuing a career as a data scientist.
 
 I have good experience with Python language and I like working with Jupyter Notebook to analyze datasets. I also have a slight mastery of C/C++ from my college work.
 
@@ -11,3 +11,4 @@ If you can help me to grow, giving tips and ways to improve my code, I will be v
 Fun fact: Sudoku and chess are my favorite hobbies!
 
 
+-->
