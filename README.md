@@ -11,7 +11,7 @@ Fun fact: Sudoku and chess are my favorite hobbies!
 
 ##
 <div>
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+  <img alt="hackerman-gif" height="300" width="500" src="https://media2.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=ecf05e47sq185nddc3fbloqt7dtspruc6y0ij5dchebldsbg&rid=giphy.gif&ct=g">
 </div>
 
 ##
