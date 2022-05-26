@@ -1,5 +1,16 @@
+# Hey!
+
+📪 Find me at:
+<div>
+  <a href="https://github.com/N3pomuceno" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:joaonepomuceno@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-nepomuceno-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
+</div>
+         
 
 
+### A little about me...
 Hi, I'm N3pomuceno(he/him), a Brazilian guy pursuing knowledge. I am graduated in Physics at Universidade Federal Fluminense (UFF) in 2021 and now I am taking the Information Systems course, with the intention of pursuing a career as a data scientist.
 
 I have good experience with Python language and I like working with Jupyter Notebook to analyze datasets. I also have a slight mastery of C/C++ from my college work.
@@ -7,7 +18,7 @@ I have good experience with Python language and I like working with Jupyter Note
 I'm interested in becoming a data scientist working with Machine Learning. I want to practice a lot so that I can become good and efficient!
 If you can help me to grow, giving tips and ways to improve my code, I will be very grateful.
 
-Fun fact: Sudoku and chess are my favorite hobbies!
+Fun fact 🎊: Sudoku and chess are my favorite hobbies!
 
 ##
 <div>
@@ -15,6 +26,10 @@ Fun fact: Sudoku and chess are my favorite hobbies!
 </div>
 
 ##
+ 
+  
+  🇧🇷
+### Um pouco sobre mim... 
 Oi, eu sou N3pomuceno(Ele/Dele), um cara brasileiro correndo atrás de conhecimento. Sou graduado em Física Bacharelado na Universidade Federal Fluminense (UFF) em 2021 e agora faço o curso de Sistemas de Informação, com a intenção de seguir na carreira de cientista de dados.
 
 Eu tenho boa experiência com a linguagem Python e gosto de trabalhar com Jupyter Notebook para analisar datasets. Também tenho um leve domínio em C/C++ pelos trabalhos realizados na faculdade.
@@ -22,10 +37,10 @@ Eu tenho boa experiência com a linguagem Python e gosto de trabalhar com Jupyte
 Tenho interesse em me tornar um cientista de dados que trabalhe com Machine Learning. Quero praticar muito para que possa me tornar bom e eficiente!
 Se conseguir me ajudar a crescer, dando dicas e maneiras de melhorar meu código serei muito grato.
 
-Fato interessante: Sudoku e xadrez são meus hobbies favoritos!
+Fato interessante 🎊: Sudoku e xadrez são meus hobbies favoritos!
 
 
-
+### 🚀 Stats:
 <div> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=N3pomuceno&show_icons=true&theme=tokyonight"/>
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=N3pomuceno&langs_count=8&theme=tokyonight"/>
@@ -43,10 +58,4 @@ Fato interessante: Sudoku e xadrez são meus hobbies favoritos!
 
 ##
   	
-<div>
-  <a href="https://github.com/N3pomuceno" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:joaonepomuceno@id.uff.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-nepomuceno-azevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.kaggle.com/" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank"></a> 
-</div>
-          
+ 
