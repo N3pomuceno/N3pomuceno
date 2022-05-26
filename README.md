@@ -16,12 +16,26 @@ Oi, eu sou N3pomuceno(Ele/Dele), um cara brasileiro correndo atrás de conhecime
 Eu tenho boa experiência com a linguagem Python e gosto de trabalhar com Jupyter Notebook para analisar datasets. Também tenho um leve domínio em C/C++ pelos trabalhos realizados na faculdade.
 
 Tenho interesse em me tornar um cientista de dados que trabalhe com Machine Learning. Quero praticar muito para que possa me tornar bom e eficiente!
-
 Se conseguir me ajudar a crescer, dando dicas e maneiras de melhorar meu código serei muito grato.
 
 Fato interessante: Sudoku e xadrez são meus hobbies favoritos!
 
 <div> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=N3pomuceno&show_icons=true&theme=tokyonight"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=N3pomuceno&layout=compact&theme=tokyonight"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=N3pomuceno&langs_count=8&theme=tokyonight"/>
 </div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="N3po-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="N3po-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="N3po-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="N3po-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+##
+  
+<div>
+  <a href = "mailto:joaonepomuceno@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
+  <a href=" www.linkedin.com/in/joão-nepomuceno-azevedo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+          
