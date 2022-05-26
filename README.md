@@ -11,7 +11,7 @@ Fun fact: Sudoku and chess are my favorite hobbies!
 
 ##
 <div>
-  <img alt="hackerman-gif" height="300" width="500" src="https://media2.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=ecf05e47sq185nddc3fbloqt7dtspruc6y0ij5dchebldsbg&rid=giphy.gif&ct=g">
+  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </div>
 
 ##
@@ -23,6 +23,8 @@ Tenho interesse em me tornar um cientista de dados que trabalhe com Machine Lear
 Se conseguir me ajudar a crescer, dando dicas e maneiras de melhorar meu código serei muito grato.
 
 Fato interessante: Sudoku e xadrez são meus hobbies favoritos!
+
+
 
 <div> 
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=N3pomuceno&show_icons=true&theme=tokyonight"/>
