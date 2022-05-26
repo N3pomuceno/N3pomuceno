@@ -10,7 +10,11 @@ If you can help me to grow, giving tips and ways to improve my code, I will be v
 Fun fact: Sudoku and chess are my favorite hobbies!
 
 ##
+<div>
+  <img alt="hackerman-gif" height="300" width="500" src="https://media2.giphy.com/media/3knKct3fGqxhK/giphy.gif?cid=ecf05e47sq185nddc3fbloqt7dtspruc6y0ij5dchebldsbg&rid=giphy.gif&ct=g">
+</div>
 
+##
 Oi, eu sou N3pomuceno(Ele/Dele), um cara brasileiro correndo atrás de conhecimento. Sou graduado em Física Bacharelado na Universidade Federal Fluminense (UFF) em 2021 e agora faço o curso de Sistemas de Informação, com a intenção de seguir na carreira de cientista de dados.
 
 Eu tenho boa experiência com a linguagem Python e gosto de trabalhar com Jupyter Notebook para analisar datasets. Também tenho um leve domínio em C/C++ pelos trabalhos realizados na faculdade.
