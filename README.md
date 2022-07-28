@@ -44,8 +44,8 @@ Fato interessante: 🎊 Sudoku e xadrez são meus hobbies favoritos!
 
 ### 🚀 Stats:
 <div> 
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=N3pomuceno&show_icons=true&theme=tokyonight"/>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=N3pomuceno&langs_count=4&theme=tokyonight"/>
+  <img height = "240em" src = "https://github-readme-stats.vercel.app/api?username=N3pomuceno&show_icons=true&theme=tokyonight"/>
+  <img height = "360em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=N3pomuceno&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
